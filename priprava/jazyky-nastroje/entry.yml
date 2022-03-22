@@ -3,5 +3,8 @@ lead: Nainstalujeme jazyk Python a nástroje, které budete pro programování n
 sections:
   - operacni-system
   - instalace
+  - instalace-python
+  - instalace-vscode
+  - instalace-rozsireni-vscode
   - overeni
   - vscode
