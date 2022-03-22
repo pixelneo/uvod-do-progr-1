@@ -1,5 +1,8 @@
 ## Ověření instalace Pythonu ve VS Code
-Ať už používáte jakýkoliv operační systém, spusťte Visual Studio Code a z horní lišty vyberte **Terminal → New Terminal**. 
+Ať už používáte jakýkoliv operační systém, spusťte Visual Studio Code a z horní lišty vyberte **Terminal → New Terminal** (viz obrázek). 
+
+::fig[VS Code Terminal]{src=assets/vscode-term.png}
+
 Pokud jste na Windows, napište do okna, které se objeví, toto:
 ```
 python
